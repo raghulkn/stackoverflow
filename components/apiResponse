@@ -1,0 +1,27 @@
+{
+      "tags": [
+        "reactjs",
+        "gatsby",
+        "progressive-web-apps"
+      ],
+      "owner": {
+        "account_id": 17260462,
+        "reputation": 107,
+        "user_id": 12498479,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/1468100070005243/picture?type=large",
+        "display_name": "Pinky Promise",
+        "link": "https://stackoverflow.com/users/12498479/pinky-promise"
+      },
+      "is_answered": false,
+      "view_count": 7,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1629260315,
+      "creation_date": 1629256598,
+      "last_edit_date": 1629260315,
+      "question_id": 68826132,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/68826132/pop-up-install-application-on-pwa-react",
+      "title": "Pop up Install application on PWA React"
+    }
