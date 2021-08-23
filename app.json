@@ -2,6 +2,8 @@
   "expo": {
     "name": "app",
     "slug": "app",
+    "privacy":"public",
+    "description":"show Stack over flow search results",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,13 +19,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "www.stack.com"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "www.stack.com"
     },
     "web": {
       "favicon": "./assets/favicon.png"
